@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.eb</groupId>
-    <artifactId>aws-eb-spring-boot-fluentd-kinesis-sample-app</artifactId>
+    <artifactId>aws-eb-fluentd-kinesis-app</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 

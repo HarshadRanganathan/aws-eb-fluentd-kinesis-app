@@ -11,5 +11,5 @@ This application exposes two endpoints:
 To build the war artifact:
 
 ```
-mvn package spring-boot:repackage
+mvn clean package spring-boot:repackage
 ```
