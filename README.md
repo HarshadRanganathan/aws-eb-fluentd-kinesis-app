@@ -1,4 +1,4 @@
-# aws-eb-spring-boot-fluentd-kinesis-sample-app
+# aws-eb-fluentd-kinesis-app
 Sample spring boot application for AWS elasticbeanstalk with fluentd and kinesis configurations.
 
 This application exposes two endpoints:
